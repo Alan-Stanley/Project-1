@@ -22,5 +22,3 @@ A static e-commerce website built using HTML, CSS, and JavaScript. This project 
 - JavaScript (basic)
 
 ---
-
-## 📁 Project Structure
